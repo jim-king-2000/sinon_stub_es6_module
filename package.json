@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "ava": "^1.0.0-beta.5.1",
-    "esm": "^3.0.49",
+    "ava": "^1.0.0-beta.6",
+    "esm": "^3.0.55",
     "sinon": "^5.1.1"
   },
   "ava": {
